@@ -16,7 +16,7 @@ Deverão ser consideradas duas funcionalidades principais:
 - Requisitos não-funcionais (Segurança, Escalabilidade, Performance, etc) 
 
 ## A Arquitetura
-![Arquitetura de Solução](https://raw.githubusercontent.com/flavrance/task-app-backend/main/docs/hexagonal_style-1.jpg)
+![Arquitetura de Solução](https://raw.githubusercontent.com/flavrance/estudo-de-caso-reservas/main/draw.io/sistemas%20de%20reservas.drawio.png)
 - Arquitetura Serverless;
 - Orquestração de Container’s;
 - Arquitetura de Microserviços;
@@ -38,3 +38,5 @@ Deverão ser consideradas duas funcionalidades principais:
 -- Amazon Elasticsearch Service;
 -- Amazon MKS (Kafka);
  
+## Apresentação
+![Download] (https://github.com/flavrance/estudo-de-caso-reservas/blob/main/apresentacao/sistema%20de%20reservas.pptx)
