@@ -37,6 +37,8 @@ Deverão ser consideradas duas funcionalidades principais:
 -- Amazon DynamoDB;
 -- Amazon Elasticsearch Service;
 -- Amazon MKS (Kafka);
+-- WAF
+- Alguns dos componentes não estão sendo exibidos na solução, mas foram abstraídos para melhor apresentação;
  
 ## Apresentação
-![Download] (https://github.com/flavrance/estudo-de-caso-reservas/blob/main/apresentacao/sistema%20de%20reservas.pptx)
+[Download] (https://github.com/flavrance/estudo-de-caso-reservas/blob/main/apresentacao/sistema%20de%20reservas.pptx)
